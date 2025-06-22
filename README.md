@@ -14,15 +14,17 @@ Maze Runner is a retro-style text-based maze game written in **x86 Assembly lang
 2. Mount the folder in DOSBox:
    ```bash
    mount c c:\asmprojects
+
    
 4. Assemble the file with NASM:
  ```bash
    nasm -f bin proj.asm -o proj.com
+```
 
 5. Run the game:
 ```bash
    proj.com
-
+```
 
 ## Notes
 
